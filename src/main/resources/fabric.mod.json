@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "mdp",
+  "version": "${version}",
+  "name": "MusicDiscs+",
+  "description": "Adds many more music discs!",
+  "authors": [
+    "pupP"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/mdp/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mdp.MusicDiscsPlus"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "mdp.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.8.9",
+    "fabric": "*"
+  }
+}
