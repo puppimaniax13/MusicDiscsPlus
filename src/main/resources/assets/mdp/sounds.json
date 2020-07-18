@@ -172,5 +172,239 @@
         "stream": true
       }
     ]
+  },
+  "alone": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/alone",
+        "stream": true
+      }
+    ]
+  },
+  "atlantic": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/atlantic",
+        "stream": true
+      }
+    ]
+  },
+  "believe_her": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/believe_her",
+        "stream": true
+      }
+    ]
+  },
+  "breakdown_vip": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/breakdown_vip",
+        "stream": true
+      }
+    ]
+  },
+  "canvas": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/canvas",
+        "stream": true
+      }
+    ]
+  },
+  "champions": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/champions",
+        "stream": true
+      }
+    ]
+  },
+  "disconnected": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/disconnected",
+        "stream": true
+      }
+    ]
+  },
+  "everchanging": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/everchanging",
+        "stream": true
+      }
+    ]
+  },
+  "frame_of_mind": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/frame_of_mind",
+        "stream": true
+      }
+    ]
+  },
+  "ftw": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/ftw",
+        "stream": true
+      }
+    ]
+  },
+  "here_with_you_now": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/here_with_you_now",
+        "stream": true
+      }
+    ]
+  },
+  "hero": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/hero",
+        "stream": true
+      }
+    ]
+  },
+  "interstellar": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/interstellar",
+        "stream": true
+      }
+    ]
+  },
+  "new_game": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/new_game",
+        "stream": true
+      }
+    ]
+  },
+  "once_again": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/once_again",
+        "stream": true
+      }
+    ]
+  },
+  "one_look": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/one_look",
+        "stream": true
+      }
+    ]
+  },
+  "orbit": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/orbit",
+        "stream": true
+      }
+    ]
+  },
+  "rainbow_road": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/rainbow_road",
+        "stream": true
+      }
+    ]
+  },
+  "savage": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/savage",
+        "stream": true
+      }
+    ]
+  },
+  "scribble": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/scribble",
+        "stream": true
+      }
+    ]
+  },
+  "skybreaker": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/skybreaker",
+        "stream": true
+      }
+    ]
+  },
+  "snowblind": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/snowblind",
+        "stream": true
+      }
+    ]
+  },
+  "surface": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/surface",
+        "stream": true
+      }
+    ]
+  },
+  "the_munsta": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/the_munsta",
+        "stream": true
+      }
+    ]
+  },
+  "this_is_forever": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/this_is_forever",
+        "stream": true
+      }
+    ]
+  },
+  "valkyrie": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/valkyrie",
+        "stream": true
+      }
+    ]
   }
 }
