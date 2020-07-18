@@ -6,7 +6,7 @@
  
  
 ## Song Info
-If the disc's name has a red E then the music is Explicit. <img align="right" width="96" height="96" src="https://i.ibb.co/3NH9VSm/output-onlinepngtools.png">
+If the disc's name has a red **E** then the music is Explicit. <img align="right" width="96" height="96" src="https://i.ibb.co/3NH9VSm/output-onlinepngtools.png">
 I do not own any of these songs, therefor this mod will be Free and always be Free. You are allowed to use it in any mod pack and advertise for it but the sale's of this mod is not allowed.
 
 ## Song List
