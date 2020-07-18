@@ -6,7 +6,7 @@
  I do not own any of these songs, therefor this mod will be Free and always be Free. You are allowed to use it in any mod pack and advertise for it but the sale's of this mod is not allowed.
  
 ## Song Info
-If the song has <span style="color:red">a *red* E</span> then it means the song is Explicit. Listen with caution! :)
+If the song has <div class="text-red mb-2">a red "E"</div> then it means the song is Explicit. Listen with caution! :)
 
 ## Song List
 
