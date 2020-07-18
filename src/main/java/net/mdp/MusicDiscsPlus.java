@@ -26,12 +26,22 @@ public class MusicDiscsPlus implements ModInitializer {
 
     public static final ItemGroup MONSTERCAT = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "monstercat"), () ->
     {
-        return new ItemStack(Items.AGAINST_THE_SUN);
+        return new ItemStack(Items.RAINBOW_ROAD);
     });
 
-    public static final ItemGroup LOFI = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "lofi"), () ->
+    public static final ItemGroup THROWBACKS = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "throwbacks"), () ->
     {
-        return new ItemStack(Items.MIDNIGHT);
+        return new ItemStack(Items.HAPPY);
+    });
+
+    public static final ItemGroup POP = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "pop"), () ->
+    {
+        return new ItemStack(Items.BLUEBERRY_FAYGO);
+    });
+
+    public static final ItemGroup REQUESTS = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "requests"), () ->
+    {
+        return new ItemStack(Items.NEVER_GONNA_GIVE_YOU_UP);
     });
 
 

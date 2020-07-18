@@ -1,7 +1,6 @@
 {
   "about_you": {
     "category": "records",
-    "subtitle": "subtitles.ncs.about_you",
     "sounds": [
       {
         "name": "mdp:ncs/about_you",
@@ -11,7 +10,6 @@
   },
   "blue_eyed_demon": {
     "category": "records",
-    "subtitle": "subtitles.ncs.blue_eyed_demon",
     "sounds": [
       {
         "name": "mdp:ncs/blue_eyed_demon",
@@ -21,7 +19,6 @@
   },
   "castle": {
     "category": "records",
-    "subtitle": "subtitles.ncs.castle",
     "sounds": [
       {
         "name": "mdp:ncs/castle",
@@ -31,7 +28,6 @@
   },
   "cool": {
     "category": "records",
-    "subtitle": "subtitles.ncs.cool",
     "sounds": [
       {
         "name": "mdp:ncs/cool",
@@ -41,7 +37,6 @@
   },
   "find_you": {
     "category": "records",
-    "subtitle": "subtitles.ncs.find_you",
     "sounds": [
       {
         "name": "mdp:ncs/find_you",
@@ -59,7 +54,6 @@
   },
   "howling": {
     "category": "records",
-    "subtitle": "subtitles.ncs.howling",
     "sounds": [
       {
         "name": "mdp:ncs/howling",
@@ -69,7 +63,6 @@
   },
   "island": {
     "category": "records",
-    "subtitle": "subtitles.ncs.island",
     "sounds": [
       {
         "name": "mdp:ncs/island",
@@ -79,7 +72,6 @@
   },
   "light_it_up": {
     "category": "records",
-    "subtitle": "subtitles.ncs.light_it_up",
     "sounds": [
       {
         "name": "mdp:ncs/light_it_up",
@@ -89,7 +81,6 @@
   },
   "live_a_lie": {
     "category": "records",
-    "subtitle": "subtitles.ncs.live_a_lie",
     "sounds": [
       {
         "name": "mdp:ncs/live_a_lie",
@@ -99,7 +90,6 @@
   },
   "love_me": {
     "category": "records",
-    "subtitle": "subtitles.ncs.love_me",
     "sounds": [
       {
         "name": "mdp:ncs/love_me",
@@ -109,7 +99,6 @@
   },
   "mas_y_mas": {
     "category": "records",
-    "subtitle": "subtitles.ncs.mas_y_mas",
     "sounds": [
       {
         "name": "mdp:ncs/mas_y_mas",
@@ -119,7 +108,6 @@
   },
   "paradise": {
     "category": "records",
-    "subtitle": "subtitles.ncs.paradise",
     "sounds": [
       {
         "name": "mdp:ncs/paradise",
@@ -129,7 +117,6 @@
   },
   "say_goodbye": {
     "category": "records",
-    "subtitle": "subtitles.ncs.say_goodbye",
     "sounds": [
       {
         "name": "mdp:ncs/say_goodbye",
@@ -139,7 +126,6 @@
   },
   "sun_goes_down": {
     "category": "records",
-    "subtitle": "subtitles.ncs.sun_goes_down",
     "sounds": [
       {
         "name": "mdp:ncs/sun_goes_down",
@@ -149,7 +135,6 @@
   },
   "superhero": {
     "category": "records",
-    "subtitle": "subtitles.ncs.superhero",
     "sounds": [
       {
         "name": "mdp:ncs/superhero",
@@ -159,7 +144,6 @@
   },
   "we_started": {
     "category": "records",
-    "subtitle": "subtitles.ncs.we_started",
     "sounds": [
       {
         "name": "mdp:ncs/we_started",
@@ -169,10 +153,22 @@
   },
   "why_do_i": {
     "category": "records",
-    "subtitle": "subtitles.ncs.why_do_i",
     "sounds": [
       {
         "name": "mdp:ncs/why_do_i",
+        "stream": true
+      }
+    ]
+  },
+
+
+
+
+  "against_the_sun": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:monstercat/against_the_sun",
         "stream": true
       }
     ]
