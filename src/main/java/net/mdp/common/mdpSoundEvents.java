@@ -28,8 +28,7 @@ public class mdpSoundEvents {
     public static final SoundEvent WHY_DO_I = register("why_do_i");
 
     //Monstercat
-    public static final SoundEvent CHASING_CLOUDS = register("chasing_clouds");
-    public static final SoundEvent ROCK_IT = register("rock_it");
+    public static final SoundEvent AGAINST_THE_SUN = register("against_the_sun");
     //LoFi
     public static final SoundEvent MIDNIGHT = register("midnight");
 

@@ -30,8 +30,8 @@ public class Items {
     public static final Item SUPERHERO = register("superhero", new mdpDisc(14, mdpSoundEvents.SUPERHERO, NCS_SETTINGS));
     public static final Item WE_STARTED = register("we_started", new mdpDisc(14, mdpSoundEvents.WE_STARTED, NCS_SETTINGS));
     public static final Item WHY_DO_I = register("why_do_i", new mdpDisc(14, mdpSoundEvents.WHY_DO_I, NCS_SETTINGS));
-    //RL
-    public static final Item ROCK_IT = register("rock_it", new mdpDisc(15, mdpSoundEvents.ROCK_IT, MONSTERCAT_SETTINGS));
+    //Monstercat
+    public static final Item AGAINST_THE_SUN = register("against_the_sun", new mdpDisc(15, mdpSoundEvents.AGAINST_THE_SUN, MONSTERCAT_SETTINGS));
     //LoFi
     public static final Item MIDNIGHT = register("midnight", new mdpDisc(1, mdpSoundEvents.MIDNIGHT, LOFI_SETTINGS));
 

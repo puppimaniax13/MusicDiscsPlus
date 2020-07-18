@@ -26,7 +26,7 @@ public class MusicDiscsPlus implements ModInitializer {
 
     public static final ItemGroup MONSTERCAT = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "monstercat"), () ->
     {
-        return new ItemStack(Items.INFINITE_POWER);
+        return new ItemStack(Items.AGAINST_THE_SUN);
     });
 
     public static final ItemGroup LOFI = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "lofi"), () ->
