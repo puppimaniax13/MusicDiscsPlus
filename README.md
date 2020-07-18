@@ -1,4 +1,4 @@
-[![Discord](https://discordapp.com/api/guilds/733950434892447797/widget.json)](https://discord.gg/Fe4NGNQ)
+[![Discord](https://img.shields.io/discord/733950434892447797.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Fe4NGNQ)
 
 # MusicDiscsPlus
 
