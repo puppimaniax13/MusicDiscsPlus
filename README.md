@@ -8,6 +8,10 @@
 ## Song Info
 If the song has <div class="text-red mb-2">a red "E"</div> then it means the song is Explicit. Listen with caution! :)
 
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
+
 ## Song List
 
 |               NCS               |             Monstercat            | Throwbacks                                 |
