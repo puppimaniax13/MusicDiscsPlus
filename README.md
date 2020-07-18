@@ -3,35 +3,36 @@
 # MusicDiscsPlus
 
  [MusicDiscsPlus](https://minecraft.curseforge.com/projects/MusicDiscsPlus) is a **Fabric** mod that adds 144+ music discs into Minecraft!
+ I do not own any of these songs, therefor this mod will be Free and always be Free. You are allowed to use it in any mod pack and advertise for it but the sale's of this mod is not allowed.
 
 ## Song List
 
-|               NCS               |             Monstercat            |
-|:-------------------------------:|:---------------------------------:|
-| Ascence - **About You**         |   Rootkit - **Against The Sun**   |
-| ROY KNOX - **Blue Eyed Demon**  |       Marshmello - **Alone**      |
-| Clarx & Harddope - **Castle**   |        Rogue - **Atlantic**       |
-| MAGNUS x Unread - **Cool**      | Mr FijiWiji - **Believe Her**     |
-| Tinoma - **Find You**           | Haywyre - **Breakdown VIP**       |
-| Diamond Eyes - **Gravity**      | Rezonate - **Canvas**             |
-| Cartoon - **Howling**           | Astronaut - **Champions**         |
-| Jarico - **Island**             | Pegboard Nerds - **Disconnected** |
-| Robin x Tobi - **Light It Up**  | Haywyre - **Everchanging**        |
-| Rival x Egzod - **Live A Lie**  | Tristam - **Frame Of Mind**       |
-| Jonny & Annie - **LOVE ME**     | Lets Be Friends - **FTW**         |
-| Cartoon - **Más Y Más**         | Grabbitz - **Here With You Now**  |
-| Jarico - **Paradise**           | Pegboard Nerds - **Hero**         |
-| Unknown Brain - **Say Goodbye** | Laszio - **Interstellar**         |
-| Jim x ROY - **Sun Goes Down**   | Nitro Fun - **New Game**          |
-| Unknown Brain - **Superhero**   | Tristam - **Once Again**          |
-| Lost Sky - **Where We Started** | LVTHER - **One Look**             |
-| Unknown Brain - **Why do I-**   | WRLD - **Orbit**                  |
-| ---                             | nanobii - **Rainbow Road**        |
-| ---                             | Case & Point - **Savage**         |
-| ---                             | Puppet - **Scribble**             |
-| ---                             | Razihel - **Skybreaker**          |
-| ---                             | Au5 - **Snowblind**               |
-| ---                             | Aero Chord - **Surface**          |
-| ---                             | SCNDL - **The Munsta**            |
-| ---                             | Hellberg - **This Is Forever**    |
-| ---                             | Varien - **Valkyrie**             |
+|               NCS               |             Monstercat            | Throwbacks                                 |
+|:-------------------------------:|:---------------------------------:|--------------------------------------------|
+| Ascence - **About You**         |   Rootkit - **Against The Sun**   | Nice & Vinz - **Am I Wrong**               |
+| ROY KNOX - **Blue Eyed Demon**  |       Marshmello - **Alone**      | Charli XCX - **Boom Clap**                 |
+| Clarx & Harddope - **Castle**   |        Rogue - **Atlantic**       | DNCE - **Cake By The Ocean**               |
+| MAGNUS x Unread - **Cool**      | Mr FijiWiji - **Believe Her**     | Coldplay - **Clocks**                      |
+| Tinoma - **Find You**           | Haywyre - **Breakdown VIP**       | Sean Kingston - **Fire Burning**           |
+| Diamond Eyes - **Gravity**      | Rezonate - **Canvas**             | Flo Rida - **GDFR**                        |
+| Cartoon - **Howling**           | Astronaut - **Champions**         | Bruno Mars - **Grenade**                   |
+| Jarico - **Island**             | Pegboard Nerds - **Disconnected** | Pharrel Williams - **Happy**               |
+| Robin x Tobi - **Light It Up**  | Haywyre - **Everchanging**        | Panic! At The Disco - **High Hopes**       |
+| Rival x Egzod - **Live A Lie**  | Tristam - **Frame Of Mind**       | Taylor Swift - **I Knew You Were Trouble** |
+| Jonny & Annie - **LOVE ME**     | Lets Be Friends - **FTW**         | Passenger - **Let Her Go**                 |
+| Cartoon - **Más Y Más**         | Grabbitz - **Here With You Now**  | FEM - **Like A G6**                        |
+| Jarico - **Paradise**           | Pegboard Nerds - **Hero**         | T.I. - **Live Your Life**                  |
+| Unknown Brain - **Say Goodbye** | Laszio - **Interstellar**         | Bruno Mars - **Locked Out Of Heaven**      |
+| Jim x ROY - **Sun Goes Down**   | Nitro Fun - **New Game**          | John Newman - **Love Me Again**            |
+| Unknown Brain - **Superhero**   | Tristam - **Once Again**          | Rivers Cuomo - **Magic**                   |
+| Lost Sky - **Where We Started** | LVTHER - **One Look**             | Maroon 5 - **Maps**                        |
+| Unknown Brain - **Why do I-**   | WRLD - **Orbit**                  | Iyaz - **Replay**                          |
+| ---                             | nanobii - **Rainbow Road**        | Flo Rida - **Right Round**                 |
+| ---                             | Case & Point - **Savage**         | will.i.am - **Scream & Shout**             |
+| ---                             | Puppet - **Scribble**             | LMFAO - **Sexy & I Know It**               |
+| ---                             | Razihel - **Skybreaker**          | Milky Chance - **Stolen Dance**            |
+| ---                             | Au5 - **Snowblind**               | Lupe Fiasco - **The Show Goes On**         |
+| ---                             | Aero Chord - **Surface**          | DNCE - **Toothbrush**                      |
+| ---                             | SCNDL - **The Munsta**            | Shakira - **Waka Waka**                    |
+| ---                             | Hellberg - **This Is Forever**    | Skrillex - **Where Are You Now**           |
+| ---                             | Varien - **Valkyrie**             | Flo Rida - **Where Them Girls At**         |
