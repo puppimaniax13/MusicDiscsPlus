@@ -4,11 +4,34 @@
 
  [MusicDiscsPlus](https://minecraft.curseforge.com/projects/MusicDiscsPlus) is a **Fabric** mod that adds 144+ music discs into Minecraft!
 
-## NCS Tab
- ♪ Ascence - **About You**
- 
- ♪ ROY KNOX - **Blue Eyed Demon**
- 
- ♪ Clarx & Harddope - **Castle**
- 
- ♪ MAGNUS x Unread - **Cool**
+## Song List
+
+|               NCS               |             Monstercat            |
+|:-------------------------------:|:---------------------------------:|
+| Ascence - **About You**         |   Rootkit - **Against The Sun**   |
+| ROY KNOX - **Blue Eyed Demon**  |       Marshmello - **Alone**      |
+| Clarx & Harddope - **Castle**   |        Rogue - **Atlantic**       |
+| MAGNUS x Unread - **Cool**      | Mr FijiWiji - **Believe Her**     |
+| Tinoma - **Find You**           | Haywyre - **Breakdown VIP**       |
+| Diamond Eyes - **Gravity**      | Rezonate - **Canvas**             |
+| Cartoon - **Howling**           | Astronaut - **Champions**         |
+| Jarico - **Island**             | Pegboard Nerds - **Disconnected** |
+| Robin x Tobi - **Light It Up**  | Haywyre - **Everchanging**        |
+| Rival x Egzod - **Live A Lie**  | Tristam - **Frame Of Mind**       |
+| Jonny & Annie - **LOVE ME**     | Lets Be Friends - **FTW**         |
+| Cartoon - **Más Y Más**         | Grabbitz - **Here With You Now**  |
+| Jarico - **Paradise**           | Pegboard Nerds - **Hero**         |
+| Unknown Brain - **Say Goodbye** | Laszio - **Interstellar**         |
+| Jim x ROY - **Sun Goes Down**   | Nitro Fun - **New Game**          |
+| Unknown Brain - **Superhero**   | Tristam - **Once Again**          |
+| Lost Sky - **Where We Started** | LVTHER - **One Look**             |
+| Unknown Brain - **Why do I-**   | WRLD - **Orbit**                  |
+| UND                             | nanobii - **Rainbow Road**        |
+| UND                             | Case & Point - **Savage**         |
+| UND                             | Puppet - **Scribble**             |
+| UND                             | Razihel - **Skybreaker**          |
+| UND                             | Au5 - **Snowblind**               |
+| UND                             | Aero Chord - **Surface**          |
+| UND                             | SCNDL - **The Munsta**            |
+| UND                             | Hellberg - **This Is Forever**    |
+| UND                             | Varien - **Valkyrie**             |
