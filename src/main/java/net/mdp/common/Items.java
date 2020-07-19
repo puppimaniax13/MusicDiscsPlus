@@ -11,28 +11,38 @@ public class Items {
     private static final Item.Settings NCS_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.NCS).rarity(Rarity.RARE).maxCount(1);
     private static final Item.Settings MONSTERCAT_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.MONSTERCAT).rarity(Rarity.RARE).maxCount(1);
     private static final Item.Settings THROWBACKS_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.THROWBACKS).rarity(Rarity.RARE).maxCount(1);
-    private static final Item.Settings POP_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.POP).rarity(Rarity.RARE).maxCount(1);
+    private static final Item.Settings TIKTOK_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.TIKTOK).rarity(Rarity.RARE).maxCount(1);
     private static final Item.Settings REQUESTS_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.REQUESTS).rarity(Rarity.RARE).maxCount(1);
 
     //NCS
+    public static final Item ABOUT_ME = register("ncs.about_me", new mdpDisc(14, mdpSoundEvents.ABOUT_ME, NCS_SETTINGS));
     public static final Item ABOUT_YOU = register("ncs.about_you", new mdpDisc(14, mdpSoundEvents.ABOUT_YOU, NCS_SETTINGS));
     public static final Item BLUE_EYED_DEMON = register("ncs.blue_eyed_demon", new mdpDisc(14, mdpSoundEvents.BLUE_EYED_DEMON, NCS_SETTINGS));
     public static final Item CASTLE = register("ncs.castle", new mdpDisc(14, mdpSoundEvents.CASTLE, NCS_SETTINGS));
     public static final Item COOL = register("ncs.cool", new mdpDisc(14, mdpSoundEvents.COOL, NCS_SETTINGS));
+    public static final Item CRADLES = register("ncs.cradles", new mdpDisc(14, mdpSoundEvents.CRADLES, NCS_SETTINGS));
+    public static final Item DEMONS = register("ncs.demons", new mdpDisc(14, mdpSoundEvents.DEMONS, NCS_SETTINGS));
+    public static final Item FEARLESS = register("ncs.fearless", new mdpDisc(14, mdpSoundEvents.FEARLESS, NCS_SETTINGS));
+    public static final Item FEARLESS_PT2 = register("ncs.fearless_pt2", new mdpDisc(14, mdpSoundEvents.FEARLESS_PT2, NCS_SETTINGS));
+    public static final Item FEEL_GOOD = register("ncs.feel_good", new mdpDisc(14, mdpSoundEvents.FEEL_GOOD, NCS_SETTINGS));
     public static final Item FIND_YOU = register("ncs.find_you", new mdpDisc(14, mdpSoundEvents.FIND_YOU, NCS_SETTINGS));
     public static final Item GRAVITY = register("ncs.gravity", new mdpDisc(14, mdpSoundEvents.GRAVITY, NCS_SETTINGS));
+    public static final Item HEART_AFIRE = register("ncs.heart_afire", new mdpDisc(14, mdpSoundEvents.HEART_AFIRE, NCS_SETTINGS));
     public static final Item HOWLING = register("ncs.howling", new mdpDisc(14, mdpSoundEvents.HOWLING, NCS_SETTINGS));
     public static final Item ISLAND = register("ncs.island", new mdpDisc(14, mdpSoundEvents.ISLAND, NCS_SETTINGS));
     public static final Item LIGHT_IT_UP = register("ncs.light_it_up", new mdpDisc(14, mdpSoundEvents.LIGHT_IT_UP, NCS_SETTINGS));
     public static final Item LIVE_A_LIE = register("ncs.live_a_lie", new mdpDisc(14, mdpSoundEvents.LIVE_A_LIE, NCS_SETTINGS));
     public static final Item LOVE_ME = register("ncs.love_me", new mdpDisc(14, mdpSoundEvents.LOVE_ME, NCS_SETTINGS));
     public static final Item MAS_Y_MAS = register("ncs.mas_y_mas", new mdpDisc(14, mdpSoundEvents.MAS_Y_MAS, NCS_SETTINGS));
+    public static final Item ON_AND_ON = register("ncs.on_and_on", new mdpDisc(14, mdpSoundEvents.ON_AND_ON, NCS_SETTINGS));
     public static final Item PARADISE = register("ncs.paradise", new mdpDisc(14, mdpSoundEvents.PARADISE, NCS_SETTINGS));
     public static final Item SAY_GOODBYE = register("ncs.say_goodbye", new mdpDisc(14, mdpSoundEvents.SAY_GOODBYE, NCS_SETTINGS));
     public static final Item SUN_GOES_DOWN = register("ncs.sun_goes_down", new mdpDisc(14, mdpSoundEvents.SUN_GOES_DOWN, NCS_SETTINGS));
     public static final Item SUPERHERO = register("ncs.superhero", new mdpDisc(14, mdpSoundEvents.SUPERHERO, NCS_SETTINGS));
+    public static final Item WALK_AWAY = register("ncs.walk_away", new mdpDisc(14, mdpSoundEvents.WALK_AWAY, NCS_SETTINGS));
     public static final Item WE_STARTED = register("ncs.we_started", new mdpDisc(14, mdpSoundEvents.WE_STARTED, NCS_SETTINGS));
     public static final Item WHY_DO_I = register("ncs.why_do_i", new mdpDisc(14, mdpSoundEvents.WHY_DO_I, NCS_SETTINGS));
+
     //Monstercat
     public static final Item AGAINST_THE_SUN = register("monstercat.against_the_sun", new mdpDisc(15, mdpSoundEvents.AGAINST_THE_SUN, MONSTERCAT_SETTINGS));
     public static final Item ALONE = register("monstercat.alone", new mdpDisc(15, mdpSoundEvents.ALONE, MONSTERCAT_SETTINGS));
@@ -91,8 +101,53 @@ public class Items {
     public static final Item WHERE_ARE_YOU_NOW = register("throwbacks.where_are_you_now", new mdpDisc(1, mdpSoundEvents.WHERE_ARE_YOU_NOW, THROWBACKS_SETTINGS));
     public static final Item WHERE_THEM_GIRLS_AT = register("throwbacks.where_them_girls_at", new mdpDisc(1, mdpSoundEvents.WHERE_THEM_GIRLS_AT, THROWBACKS_SETTINGS));
 
-    //Pop
-    public static final Item BLUEBERRY_FAYGO = register("pop.blueberry_faygo", new mdpDisc(2, mdpSoundEvents.BLUEBERRY_FAYGO, POP_SETTINGS));
+    //TikTok
+    public static final Item AFTER_PARTY = register("tiktok.after_party", new mdpDisc(2, mdpSoundEvents.AFTER_PARTY, TIKTOK_SETTINGS));
+    public static final Item BE_HAPPY = register("tiktok.be_happy", new mdpDisc(2, mdpSoundEvents.BE_HAPPY, TIKTOK_SETTINGS));
+    public static final Item BLUEBERRY_FAYGO = register("tiktok.blueberry_faygo", new mdpDisc(2, mdpSoundEvents.BLUEBERRY_FAYGO, TIKTOK_SETTINGS));
+    public static final Item BOSS_BITCH = register("tiktok.boss_bitch", new mdpDisc(2, mdpSoundEvents.BOSS_BITCH, TIKTOK_SETTINGS));
+    public static final Item BRING_IT_AROUND = register("tiktok.bring_it_around", new mdpDisc(2, mdpSoundEvents.BRING_IT_AROUND, TIKTOK_SETTINGS));
+    public static final Item BROKE_BITCH = register("tiktok.broke_bitch", new mdpDisc(2, mdpSoundEvents.BROKE_BITCH, TIKTOK_SETTINGS));
+    public static final Item COSTA_RICA = register("tiktok.costa_rica", new mdpDisc(2, mdpSoundEvents.COSTA_RICA, TIKTOK_SETTINGS));
+    public static final Item CRYSTAL_DOLPHIN = register("tiktok.crystal_dolphin", new mdpDisc(2, mdpSoundEvents.CRYSTAL_DOLPHIN, TIKTOK_SETTINGS));
+    public static final Item DEATH = register("tiktok.death", new mdpDisc(2, mdpSoundEvents.DEATH, TIKTOK_SETTINGS));
+    public static final Item DEEP_END_FREESTYLE = register("tiktok.deep_end_freestyle", new mdpDisc(2, mdpSoundEvents.DEEP_END_FREESTYLE, TIKTOK_SETTINGS));
+    public static final Item DO_MY_DANCE = register("tiktok.do_my_dance", new mdpDisc(2, mdpSoundEvents.DO_MY_DANCE, TIKTOK_SETTINGS));
+    public static final Item FAST = register("tiktok.fast", new mdpDisc(2, mdpSoundEvents.FAST, TIKTOK_SETTINGS));
+    public static final Item FML = register("tiktok.fml", new mdpDisc(2, mdpSoundEvents.FML, TIKTOK_SETTINGS));
+    public static final Item FURTHER_UP = register("tiktok.further_up", new mdpDisc(2, mdpSoundEvents.FURTHER_UP, TIKTOK_SETTINGS));
+    public static final Item GO_STUPID = register("tiktok.go_stupid", new mdpDisc(2, mdpSoundEvents.GO_STUPID, TIKTOK_SETTINGS));
+    public static final Item I_WANNA_ROCK = register("tiktok.i_wanna_rock", new mdpDisc(2, mdpSoundEvents.I_WANNA_ROCK, TIKTOK_SETTINGS));
+    public static final Item LEVEL_UP = register("tiktok.level_up", new mdpDisc(2, mdpSoundEvents.LEVEL_UP, TIKTOK_SETTINGS));
+    public static final Item LO_MEIN = register("tiktok.lo_mein", new mdpDisc(2, mdpSoundEvents.LO_MEIN, TIKTOK_SETTINGS));
+    public static final Item LOSE_CONTROL = register("tiktok.lose_control", new mdpDisc(2, mdpSoundEvents.LOSE_CONTROL, TIKTOK_SETTINGS));
+    public static final Item MY_TYPE = register("tiktok.my_type", new mdpDisc(2, mdpSoundEvents.MY_TYPE, TIKTOK_SETTINGS));
+    public static final Item NIKE_TICKS = register("tiktok.nike_ticks", new mdpDisc(2, mdpSoundEvents.NIKE_TICKS, TIKTOK_SETTINGS));
+    public static final Item NONSTOP = register("tiktok.nonstop", new mdpDisc(2, mdpSoundEvents.NONSTOP, TIKTOK_SETTINGS));
+    public static final Item OUT_WEST = register("tiktok.out_west", new mdpDisc(2, mdpSoundEvents.OUT_WEST, TIKTOK_SETTINGS));
+    public static final Item PARTY_GIRL = register("tiktok.party_girl", new mdpDisc(2, mdpSoundEvents.PARTY_GIRL, TIKTOK_SETTINGS));
+    public static final Item ROCKSTAR = register("tiktok.rockstar", new mdpDisc(2, mdpSoundEvents.ROCKSTAR, TIKTOK_SETTINGS));
+    public static final Item RODEO = register("tiktok.rodeo", new mdpDisc(2, mdpSoundEvents.RODEO, TIKTOK_SETTINGS));
+    public static final Item ROSCOES = register("tiktok.roscoes", new mdpDisc(2, mdpSoundEvents.ROSCOES, TIKTOK_SETTINGS));
+    public static final Item ROSES = register("tiktok.roses", new mdpDisc(2, mdpSoundEvents.ROSES, TIKTOK_SETTINGS));
+    public static final Item ROXANNE = register("tiktok.roxanne", new mdpDisc(2, mdpSoundEvents.ROXANNE, TIKTOK_SETTINGS));
+    public static final Item SAVAGE_TIKTOK = register("tiktok.savage", new mdpDisc(2, mdpSoundEvents.SAVAGE_TIKTOK, TIKTOK_SETTINGS));
+    public static final Item SAY_SO = register("tiktok.say_so", new mdpDisc(2, mdpSoundEvents.SAY_SO, TIKTOK_SETTINGS));
+    public static final Item SKETCHERS = register("tiktok.sketchers", new mdpDisc(2, mdpSoundEvents.SKETCHERS, TIKTOK_SETTINGS));
+    public static final Item SNAKE = register("tiktok.snake", new mdpDisc(2, mdpSoundEvents.SNAKE, TIKTOK_SETTINGS));
+    public static final Item SOMETHING_FOR_YOUR_MIND = register("tiktok.something_for_your_mind", new mdpDisc(2, mdpSoundEvents.SOMETHING_FOR_YOUR_MIND, TIKTOK_SETTINGS));
+    public static final Item STARDUST = register("tiktok.stardust", new mdpDisc(2, mdpSoundEvents.STARDUST, TIKTOK_SETTINGS));
+    public static final Item STUNNIN = register("tiktok.stunnin", new mdpDisc(2, mdpSoundEvents.STUNNIN, TIKTOK_SETTINGS));
+    public static final Item STUPID = register("tiktok.stupid", new mdpDisc(2, mdpSoundEvents.STUPID, TIKTOK_SETTINGS));
+    public static final Item SUNDAY_BEST = register("tiktok.sunday_best", new mdpDisc(2, mdpSoundEvents.SUNDAY_BEST, TIKTOK_SETTINGS));
+    public static final Item THE_BOX = register("tiktok.the_box", new mdpDisc(2, mdpSoundEvents.THE_BOX, TIKTOK_SETTINGS));
+    public static final Item THEY_CALL_ME_TIAGO = register("tiktok.they_call_me_tiago", new mdpDisc(2, mdpSoundEvents.THEY_CALL_ME_TIAGO, TIKTOK_SETTINGS));
+    public static final Item TOOSIE_SLIDE = register("tiktok.toosie_slide", new mdpDisc(2, mdpSoundEvents.TOOSIE_SLIDE, TIKTOK_SETTINGS));
+    public static final Item WHATS_POPPIN = register("tiktok.whats_poppin", new mdpDisc(2, mdpSoundEvents.WHATS_POPPIN, TIKTOK_SETTINGS));
+    public static final Item WHERES_MY_JUUL = register("tiktok.wheres_my_juul", new mdpDisc(2, mdpSoundEvents.WHERES_MY_JUUL, TIKTOK_SETTINGS));
+    public static final Item WOAH = register("tiktok.woah", new mdpDisc(2, mdpSoundEvents.WOAH, TIKTOK_SETTINGS));
+    public static final Item YOU = register("tiktok.you", new mdpDisc(2, mdpSoundEvents.YOU, TIKTOK_SETTINGS));
+
 
     //Requests
     public static final Item NEVER_GONNA_GIVE_YOU_UP = register("requests.never_gonna_give_you_up", new mdpDisc(3, mdpSoundEvents.NEVER_GONNA_GIVE_YOU_UP, REQUESTS_SETTINGS));

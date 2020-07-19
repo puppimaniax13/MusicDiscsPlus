@@ -34,7 +34,7 @@ public class MusicDiscsPlus implements ModInitializer {
         return new ItemStack(Items.HAPPY);
     });
 
-    public static final ItemGroup POP = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "pop"), () ->
+    public static final ItemGroup TIKTOK = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "tiktok"), () ->
     {
         return new ItemStack(Items.BLUEBERRY_FAYGO);
     });
