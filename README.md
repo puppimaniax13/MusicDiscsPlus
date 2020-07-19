@@ -1,5 +1,10 @@
 [![Discord](https://img.shields.io/discord/733950434892447797.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Fe4NGNQ)
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 # MusicDiscsPlus
 
  [MusicDiscsPlus](https://www.curseforge.com/minecraft/mc-mods/musicdiscsplus) is a **Fabric** mod that adds 144+ music discs into Minecraft!
@@ -58,3 +63,15 @@ I do not own any of these songs, therefor this mod will be Free and always be Fr
 | ---                             | ---                               | ---                                        | Full Tac - **Wheres My Juul**                   |
 | ---                             | ---                               | ---                                        | KRYPTO9095 - **Woah**                           |
 | ---                             | ---                               | ---                                        | Petit Biscuit - **You**                         |
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-url]: https://github.com/puppimaniax13/MusicDiscsPlus/edit/master/LICENSE.md
