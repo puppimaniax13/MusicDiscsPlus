@@ -2,7 +2,7 @@
 
 # MusicDiscsPlus
 
- [MusicDiscsPlus](https://minecraft.curseforge.com/projects/MusicDiscsPlus) is a **Fabric** mod that adds 144+ music discs into Minecraft!
+ [MusicDiscsPlus](https://www.curseforge.com/minecraft/mc-mods/musicdiscsplus) is a **Fabric** mod that adds 144+ music discs into Minecraft!
  
  
 ## Song Info
