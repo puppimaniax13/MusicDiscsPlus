@@ -406,5 +406,251 @@
         "stream": true
       }
     ]
+  },
+
+
+
+  "am_i_wrong": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/am_i_wrong",
+        "stream": true
+      }
+    ]
+  },
+  "boom_clap": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/boom_clap",
+        "stream": true
+      }
+    ]
+  },
+  "cake_by_the_ocean": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/cake_by_the_ocean",
+        "stream": true
+      }
+    ]
+  },
+  "clocks": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/clocks",
+        "stream": true
+      }
+    ]
+  },
+  "fire_burning": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/fire_burning",
+        "stream": true
+      }
+    ]
+  },
+  "gdfr": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/gdfr",
+        "stream": true
+      }
+    ]
+  },
+  "grenade": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/grenade",
+        "stream": true
+      }
+    ]
+  },
+  "happy": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/happy",
+        "stream": true
+      }
+    ]
+  },
+  "high_hopes": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/high_hopes",
+        "stream": true
+      }
+    ]
+  },
+  "i_knew_you_were_trouble": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/i_knew_you_were_trouble",
+        "stream": true
+      }
+    ]
+  },
+  "let_her_go": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/let_her_go",
+        "stream": true
+      }
+    ]
+  },
+  "like_a_g6": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/like_a_g6",
+        "stream": true
+      }
+    ]
+  },
+  "live_your_life": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/live_your_life",
+        "stream": true
+      }
+    ]
+  },
+  "locked_out_of_heaven": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/locked_out_of_heaven",
+        "stream": true
+      }
+    ]
+  },
+  "love_me_again": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/love_me_again",
+        "stream": true
+      }
+    ]
+  },
+  "magic": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/magic",
+        "stream": true
+      }
+    ]
+  },
+  "maps": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/maps",
+        "stream": true
+      }
+    ]
+  },
+  "replay": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/replay",
+        "stream": true
+      }
+    ]
+  },
+  "right_round": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/right_round",
+        "stream": true
+      }
+    ]
+  },
+  "scream_and_shout": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/scream_and_shout",
+        "stream": true
+      }
+    ]
+  },
+  "sexy_and_i_know_it": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/sexy_and_i_know_it",
+        "stream": true
+      }
+    ]
+  },
+  "stolen_dance": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/stolen_dance",
+        "stream": true
+      }
+    ]
+  },
+  "the_show_goes_on": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/the_show_goes_on",
+        "stream": true
+      }
+    ]
+  },
+  "toothbrush": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/toothbrush",
+        "stream": true
+      }
+    ]
+  },
+  "waka_waka": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/waka_waka",
+        "stream": true
+      }
+    ]
+  },
+  "where_are_you_now": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/where_are_you_now",
+        "stream": true
+      }
+    ]
+  },
+  "where_them_girls_at": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:throwbacks/where_them_girls_at",
+        "stream": true
+      }
+    ]
   }
 }
