@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mdp:item/tiktok/i_wanna_rock"
+  }
+}
