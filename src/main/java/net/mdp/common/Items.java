@@ -7,7 +7,7 @@ import net.minecraft.util.Rarity;
 import net.minecraft.util.registry.Registry;
 
 public class Items {
-    //Settings
+    //Settings:) d
     private static final Item.Settings NCS_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.NCS).rarity(Rarity.RARE).maxCount(1);
     private static final Item.Settings MONSTERCAT_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.MONSTERCAT).rarity(Rarity.RARE).maxCount(1);
     private static final Item.Settings THROWBACKS_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.THROWBACKS).rarity(Rarity.RARE).maxCount(1);
