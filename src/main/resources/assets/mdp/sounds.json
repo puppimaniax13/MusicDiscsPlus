@@ -652,5 +652,496 @@
         "stream": true
       }
     ]
+  },
+
+
+  "after_party": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/after_party",
+        "stream": true
+      }
+    ]
+  },
+  "be_happy": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/be_happy",
+        "stream": true
+      }
+    ]
+  },
+  "blueberry_faygo": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/blueberry_faygo",
+        "stream": true
+      }
+    ]
+  },
+  "boss_bitch": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/boss_bitch",
+        "stream": true
+      }
+    ]
+  },
+  "bring_it_around": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/bring_it_around",
+        "stream": true
+      }
+    ]
+  },
+  "broke_bitch": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/broke_bitch",
+        "stream": true
+      }
+    ]
+  },
+  "costa_rica": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/costa_rica",
+        "stream": true
+      }
+    ]
+  },
+  "crystal_dolphin": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/crystal_dolphin",
+        "stream": true
+      }
+    ]
+  },
+  "death": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/death",
+        "stream": true
+      }
+    ]
+  },
+  "deep_end_freestyle": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/deep_end_freestyle",
+        "stream": true
+      }
+    ]
+  },
+  "do_my_dance": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/do_my_dance",
+        "stream": true
+      }
+    ]
+  },
+  "fast": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/fast",
+        "stream": true
+      }
+    ]
+  },
+  "fml": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/fml",
+        "stream": true
+      }
+    ]
+  },
+  "further_up": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/further_up",
+        "stream": true
+      }
+    ]
+  },
+  "go_stupid": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/go_stupid",
+        "stream": true
+      }
+    ]
+  },
+  "i_wanna_rock": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/i_wanna_rock",
+        "stream": true
+      }
+    ]
+  },
+  "level_up": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/level_up",
+        "stream": true
+      }
+    ]
+  },
+  "lo_mein": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/lo_mein",
+        "stream": true
+      }
+    ]
+  },
+  "lose_control": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/lose_control",
+        "stream": true
+      }
+    ]
+  },
+  "my_type": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/my_type",
+        "stream": true
+      }
+    ]
+  },
+  "nike_ticks": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/nike_ticks",
+        "stream": true
+      }
+    ]
+  },
+  "nonstop": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/nonstop",
+        "stream": true
+      }
+    ]
+  },
+  "out_west": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/out_west",
+        "stream": true
+      }
+    ]
+  },
+  "party_girl": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/party_girl",
+        "stream": true
+      }
+    ]
+  },
+  "rockstar": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/rockstar",
+        "stream": true
+      }
+    ]
+  },
+  "rodeo": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/rodeo",
+        "stream": true
+      }
+    ]
+  },
+  "roscoes": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/roscoes",
+        "stream": true
+      }
+    ]
+  },
+  "roses": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/roses",
+        "stream": true
+      }
+    ]
+  },
+  "roxanne": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/roxanne",
+        "stream": true
+      }
+    ]
+  },
+  "savage_tiktok": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/savage",
+        "stream": true
+      }
+    ]
+  },
+  "say_so": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/say_so",
+        "stream": true
+      }
+    ]
+  },
+  "sketchers": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/sketchers",
+        "stream": true
+      }
+    ]
+  },
+  "snake": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/snake",
+        "stream": true
+      }
+    ]
+  },
+  "something_for_your_mind": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/something_for_your_mind",
+        "stream": true
+      }
+    ]
+  },
+  "stardust": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/stardust",
+        "stream": true
+      }
+    ]
+  },
+  "stunnin": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/stunnin",
+        "stream": true
+      }
+    ]
+  },
+  "stupid": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/stupid",
+        "stream": true
+      }
+    ]
+  },
+  "sunday_best": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/sunday_best",
+        "stream": true
+      }
+    ]
+  },
+  "the_box": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/the_box",
+        "stream": true
+      }
+    ]
+  },
+  "they_call_me_tiago": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/they_call_me_tiago",
+        "stream": true
+      }
+    ]
+  },
+  "toosie_slide": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/toosie_slide",
+        "stream": true
+      }
+    ]
+  },
+  "whats_poppin": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/whats_poppin",
+        "stream": true
+      }
+    ]
+  },
+  "wheres_my_juul": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/wheres_my_juul",
+        "stream": true
+      }
+    ]
+  },
+  "woah": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/woah",
+        "stream": true
+      }
+    ]
+  },
+  "you": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:tiktok/you",
+        "stream": true
+      }
+    ]
+  },
+
+
+
+  "dont_mine_at_night": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:hidden/dont_mine_at_night",
+        "stream": true
+      }
+    ]
+  },
+  "fallen_kingdom": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:hidden/fallen_kingdom",
+        "stream": true
+      }
+    ]
+  },
+  "mr_sandman": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:hidden/mr_sandman",
+        "stream": true
+      }
+    ]
+  },
+  "mumbo_jumbo": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:hidden/mumbo_jumbo",
+        "stream": true
+      }
+    ]
+  },
+  "never_gonna_give_you_up": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:hidden/never_gonna_give_you_up",
+        "stream": true
+      }
+    ]
+  },
+  "nugget_in_a_biscuit": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:hidden/nugget_in_a_biscuit",
+        "stream": true
+      }
+    ]
+  },
+  "revenge_mc": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:hidden/revenge_mc",
+        "stream": true
+      }
+    ]
+  },
+  "supernatural_mobs": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:hidden/supernatural_mobs",
+        "stream": true
+      }
+    ]
+  },
+  "take_back_the_night": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:hidden/take_back_the_night",
+        "stream": true
+      }
+    ]
   }
 }

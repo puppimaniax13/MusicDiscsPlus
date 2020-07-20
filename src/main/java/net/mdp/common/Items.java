@@ -2,6 +2,7 @@ package net.mdp.common;
 
 import net.mdp.MusicDiscsPlus;
 import net.minecraft.item.Item;
+import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.Rarity;
 import net.minecraft.util.registry.Registry;
@@ -12,7 +13,7 @@ public class Items {
     private static final Item.Settings MONSTERCAT_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.MONSTERCAT).rarity(Rarity.RARE).maxCount(1);
     private static final Item.Settings THROWBACKS_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.THROWBACKS).rarity(Rarity.RARE).maxCount(1);
     private static final Item.Settings TIKTOK_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.TIKTOK).rarity(Rarity.RARE).maxCount(1);
-    private static final Item.Settings REQUESTS_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.REQUESTS).rarity(Rarity.RARE).maxCount(1);
+    private static final Item.Settings HIDDEN_SETTINGS = new Item.Settings().maxCount(1).group(ItemGroup.MISC).rarity(Rarity.RARE).maxCount(1);
 
     //NCS
     public static final Item ABOUT_ME = register("ncs.about_me", new mdpDisc(14, mdpSoundEvents.ABOUT_ME, NCS_SETTINGS));
@@ -149,8 +150,16 @@ public class Items {
     public static final Item YOU = register("tiktok.you", new mdpDisc(2, mdpSoundEvents.YOU, TIKTOK_SETTINGS));
 
 
-    //Requests
-    public static final Item NEVER_GONNA_GIVE_YOU_UP = register("requests.never_gonna_give_you_up", new mdpDisc(3, mdpSoundEvents.NEVER_GONNA_GIVE_YOU_UP, REQUESTS_SETTINGS));
+    //Hidden
+    public static final Item DONT_MINE_AT_NIGHT = register("hidden.dont_mine_at_night", new mdpDisc(7, mdpSoundEvents.DONT_MINE_AT_NIGHT, HIDDEN_SETTINGS));
+    public static final Item FALLEN_KINGDOM = register("hidden.fallen_kingdom", new mdpDisc(7, mdpSoundEvents.FALLEN_KINGDOM, HIDDEN_SETTINGS));
+    public static final Item MR_SANDMAN = register("hidden.mr_sandman", new mdpDisc(7, mdpSoundEvents.MR_SANDMAN, HIDDEN_SETTINGS));
+    public static final Item MUMBO_JUMBO = register("hidden.mumbo_jumbo", new mdpDisc(7, mdpSoundEvents.MUMBO_JUMBO, HIDDEN_SETTINGS));
+    public static final Item NEVER_GONNA_GIVE_YOU_UP = register("hidden.never_gonna_give_you_up", new mdpDisc(7, mdpSoundEvents.NEVER_GONNA_GIVE_YOU_UP, HIDDEN_SETTINGS));
+    public static final Item nugget_in_a_biscuit = register("hidden.nugget_in_a_biscuit", new mdpDisc(7, mdpSoundEvents.NUGGET_IN_A_BISCUIT, HIDDEN_SETTINGS));
+    public static final Item REVENGE_MC = register("hidden.revenge_mc", new mdpDisc(7, mdpSoundEvents.REVENGE_MC, HIDDEN_SETTINGS));
+    public static final Item SUPERNATURAL_MOBS = register("hidden.supernatural_mobs", new mdpDisc(7, mdpSoundEvents.SUPERNATURAL_MOBS, HIDDEN_SETTINGS));
+    public static final Item TAKE_BACK_THE_NIGHT = register("hidden.take_back_the_night", new mdpDisc(7, mdpSoundEvents.TAKE_BACK_THE_NIGHT, HIDDEN_SETTINGS));
 
     public static Item register(String name, Item item){
         return Registry.register(Registry.ITEM, new Identifier("mdp", name), item);

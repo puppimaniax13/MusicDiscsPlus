@@ -141,8 +141,16 @@ public class mdpSoundEvents {
     public static final SoundEvent WOAH = register("woah");
     public static final SoundEvent YOU = register("you");
 
-    //Requests
+    //Hidden
+    public static final SoundEvent DONT_MINE_AT_NIGHT = register("dont_mine_at_night");
+    public static final SoundEvent FALLEN_KINGDOM = register("fallen_kingdom");
+    public static final SoundEvent MR_SANDMAN = register("mr_sandman");
+    public static final SoundEvent MUMBO_JUMBO = register("mumbo_jumbo");
     public static final SoundEvent NEVER_GONNA_GIVE_YOU_UP = register("never_gonna_give_you_up");
+    public static final SoundEvent NUGGET_IN_A_BISCUIT = register("nugget_in_a_biscuit");
+    public static final SoundEvent REVENGE_MC = register("revenge_mc");
+    public static final SoundEvent SUPERNATURAL_MOBS = register("supernatural_mobs");
+    public static final SoundEvent TAKE_BACK_THE_NIGHT = register("take_back_the_night");
 
 
     private static SoundEvent register(String name) {

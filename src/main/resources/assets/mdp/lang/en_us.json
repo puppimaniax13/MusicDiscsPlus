@@ -270,6 +270,10 @@
   "item.mdp.tiktok.woah.desc": "KRYPTO9095 - Woah §4E",
   "item.mdp.tiktok.you.desc": "Petit Biscuit - You",
 
+  "item.mdp.hidden.never_gonna_give_you_up": "Music Disc §7[Secret]",
+
+  "item.mdp.hidden.never_gonna_give_you_up.desc": "§kNever Gonna Give You Up",
+
 
   "itemGroup.mdp.requests": "§8Requested §rMusic Discs"
 }
