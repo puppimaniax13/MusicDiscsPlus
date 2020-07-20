@@ -1,4 +1,5 @@
-[![Discord](https://img.shields.io/discord/733950434892447797.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Fe4NGNQ)
+[![Discord Banner 2](https://discordapp.com/api/guilds/733950434892447797/widget.png?style=banner2)](https://discord.gg/Fe4NGNQ)
+
 [![](http://cf.way2muchnoise.eu/versions/jei_latest.svg)](https://www.curseforge.com/minecraft/mc-mods/extradiscs)
 # MusicDiscsPlus
 
