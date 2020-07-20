@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mdp:item/throwbacks/i_knew_you_were_trouble"
+  }
+}
