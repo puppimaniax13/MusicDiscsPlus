@@ -41,7 +41,7 @@ public class MusicDiscsPlus implements ModInitializer {
 
     public static final ItemGroup REQUESTS = FabricItemGroupBuilder.build(new Identifier(MOD_ID, "requests"), () ->
     {
-        return new ItemStack(Items.NEVER_GONNA_GIVE_YOU_UP);
+        return new ItemStack(Items.AMERICAN_RIVER);
     });
 
 
