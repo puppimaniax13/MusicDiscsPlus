@@ -12,6 +12,11 @@ I do not own any of these songs, therefor this mod will be Free and always be Fr
 
 Any Requested song will be a **creative** only disc. Meaning it will not drop from creepers like the rest. It can also be heard anywhere in the world as long as the jukebox that it is played from is in a loaded chunk.
 
+## Music Discs
+<img src="https://i.ibb.co/VtS5bFt/many-discs.png"
+     alt="Music Disc Textures"
+     style="float: left; margin-right: 10px;" />
+
 ## Song List
 
 |               NCS               |             Monstercat            |                 Throwbacks                 |                     Tik Tok                     |
