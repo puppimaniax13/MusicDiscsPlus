@@ -3,12 +3,14 @@
 [![](http://cf.way2muchnoise.eu/versions/jei_latest.svg)](https://www.curseforge.com/minecraft/mc-mods/extradiscs)
 # MusicDiscsPlus
 
- [MusicDiscsPlus](https://www.curseforge.com/minecraft/mc-mods/musicdiscsplus) is a **Fabric** mod that adds 144+ music discs into Minecraft!
+ [MusicDiscsPlus](https://www.curseforge.com/minecraft/mc-mods/musicdiscsplus) is a **Fabric** mod that adds 144+ music discs into Minecraft! All discs drop from a skeleton killing a creeper. The Discs are much like normal music discs and can be heard for about 75 blocks from the jukebox source.
  
  
 ## Song Info
 If the disc's name has a red **E** then the music is Explicit. <img align="right" width="96" height="96" src="https://i.ibb.co/3NH9VSm/output-onlinepngtools.png">
 I do not own any of these songs, therefor this mod will be Free and always be Free. You are allowed to use it in any mod pack and advertise for it but the sale's of this mod is not allowed.
+
+Any Requested song will be a **creative** only disc. Meaning it will not drop from creepers like the rest. It can also be heard anywhere in the world as long as the jukebox that it is played from is in a loaded chunk.
 
 ## Song List
 
