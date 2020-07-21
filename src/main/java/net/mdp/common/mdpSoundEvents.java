@@ -152,6 +152,18 @@ public class mdpSoundEvents {
     public static final SoundEvent SUPERNATURAL_MOBS = register("supernatural_mobs");
     public static final SoundEvent TAKE_BACK_THE_NIGHT = register("take_back_the_night");
 
+    //Requests
+    public static final SoundEvent AMERICAN_RIVER = register("american_river");
+    public static final SoundEvent BIG_TIME_RUSH = register("big_time_rush");
+    public static final SoundEvent FLY_ME_TO_THE_MOON = register("fly_me_to_the_moon");
+    public static final SoundEvent GODZILLA = register("godzilla");
+    public static final SoundEvent HELL_2_DA_NAW = register("hell_2_da_naw");
+    public static final SoundEvent HOEDOWN = register("hoedown");
+    public static final SoundEvent MOLCHAT_DOMA = register("molchat_doma");
+    public static final SoundEvent STAND_BY_ME = register("stand_by_me");
+    public static final SoundEvent THY_MISSION = register("thy_mission");
+    public static final SoundEvent YOUNG_WILD_FREE = register("young_wild_free");
+
 
     private static SoundEvent register(String name) {
         Identifier id = new Identifier(MusicDiscsPlus.MOD_ID, name);

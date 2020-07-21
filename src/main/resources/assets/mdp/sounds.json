@@ -1,4 +1,13 @@
 {
+  "about_me": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:ncs/about_me",
+        "stream": true
+      }
+    ]
+  },
   "about_you": {
     "category": "records",
     "sounds": [
@@ -35,6 +44,51 @@
       }
     ]
   },
+  "cradles": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:ncs/cradles",
+        "stream": true
+      }
+    ]
+  },
+  "demons": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:ncs/demons",
+        "stream": true
+      }
+    ]
+  },
+  "fearless": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:ncs/fearless",
+        "stream": true
+      }
+    ]
+  },
+  "fearless_pt2": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:ncs/fearless_pt2",
+        "stream": true
+      }
+    ]
+  },
+  "feel_good": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:ncs/feel_good",
+        "stream": true
+      }
+    ]
+  },
   "find_you": {
     "category": "records",
     "sounds": [
@@ -48,6 +102,14 @@
     "sounds": [
       {
         "name": "mdp:ncs/gravity",
+        "stream": true
+      }
+    ]
+  },
+  "heart_afire": {
+    "sounds": [
+      {
+        "name": "mdp:ncs/heart_afire",
         "stream": true
       }
     ]
@@ -106,6 +168,15 @@
       }
     ]
   },
+  "on_and_on": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:ncs/on_and_on",
+        "stream": true
+      }
+    ]
+  },
   "paradise": {
     "category": "records",
     "sounds": [
@@ -138,6 +209,15 @@
     "sounds": [
       {
         "name": "mdp:ncs/superhero",
+        "stream": true
+      }
+    ]
+  },
+  "walk_away": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:ncs/walk_away",
         "stream": true
       }
     ]
@@ -1140,6 +1220,99 @@
     "sounds": [
       {
         "name": "mdp:hidden/take_back_the_night",
+        "stream": true
+      }
+    ]
+  },
+
+
+
+  "american_river": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:requests/american_river",
+        "stream": true
+      }
+    ]
+  },
+  "big_time_rush": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:requests/big_time_rush",
+        "stream": true
+      }
+    ]
+  },
+  "fly_me_to_the_moon": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:requests/fly_me_to_the_moon",
+        "stream": true
+      }
+    ]
+  },
+  "godzilla": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:requests/godzilla",
+        "stream": true
+      }
+    ]
+  },
+  "hell_2_da_naw": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:requests/hell_2_da_naw",
+        "stream": true
+      }
+    ]
+  },
+  "hoedown": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:requests/hoedown",
+        "stream": true
+      }
+    ]
+  },
+  "molchat_doma": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:requests/molchat_doma",
+        "stream": true
+      }
+    ]
+  },
+  "stand_by_me": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:requests/stand_by_me",
+        "stream": true
+      }
+    ]
+  },
+  "thy_mission": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:requests/thy_mission",
+        "stream": true
+      }
+    ]
+  },
+  "young_wild_free": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "mdp:requests/young_wild_free",
         "stream": true
       }
     ]

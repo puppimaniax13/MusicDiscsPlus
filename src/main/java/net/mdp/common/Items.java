@@ -14,6 +14,7 @@ public class Items {
     private static final Item.Settings THROWBACKS_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.THROWBACKS).rarity(Rarity.RARE).maxCount(1);
     private static final Item.Settings TIKTOK_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.TIKTOK).rarity(Rarity.RARE).maxCount(1);
     private static final Item.Settings HIDDEN_SETTINGS = new Item.Settings().maxCount(1).group(ItemGroup.MISC).rarity(Rarity.RARE).maxCount(1);
+    private static final Item.Settings REQUESTS_SETTINGS = new Item.Settings().maxCount(1).group(MusicDiscsPlus.REQUESTS).rarity(Rarity.RARE).maxCount(1);
 
     //NCS
     public static final Item ABOUT_ME = register("ncs.about_me", new mdpDisc(14, mdpSoundEvents.ABOUT_ME, NCS_SETTINGS));
@@ -149,17 +150,28 @@ public class Items {
     public static final Item WOAH = register("tiktok.woah", new mdpDisc(2, mdpSoundEvents.WOAH, TIKTOK_SETTINGS));
     public static final Item YOU = register("tiktok.you", new mdpDisc(2, mdpSoundEvents.YOU, TIKTOK_SETTINGS));
 
-
     //Hidden
     public static final Item DONT_MINE_AT_NIGHT = register("hidden.dont_mine_at_night", new mdpDisc(7, mdpSoundEvents.DONT_MINE_AT_NIGHT, HIDDEN_SETTINGS));
     public static final Item FALLEN_KINGDOM = register("hidden.fallen_kingdom", new mdpDisc(7, mdpSoundEvents.FALLEN_KINGDOM, HIDDEN_SETTINGS));
     public static final Item MR_SANDMAN = register("hidden.mr_sandman", new mdpDisc(7, mdpSoundEvents.MR_SANDMAN, HIDDEN_SETTINGS));
     public static final Item MUMBO_JUMBO = register("hidden.mumbo_jumbo", new mdpDisc(7, mdpSoundEvents.MUMBO_JUMBO, HIDDEN_SETTINGS));
     public static final Item NEVER_GONNA_GIVE_YOU_UP = register("hidden.never_gonna_give_you_up", new mdpDisc(7, mdpSoundEvents.NEVER_GONNA_GIVE_YOU_UP, HIDDEN_SETTINGS));
-    public static final Item nugget_in_a_biscuit = register("hidden.nugget_in_a_biscuit", new mdpDisc(7, mdpSoundEvents.NUGGET_IN_A_BISCUIT, HIDDEN_SETTINGS));
+    public static final Item NUGGET_IN_A_BISCUIT = register("hidden.nugget_in_a_biscuit", new mdpDisc(7, mdpSoundEvents.NUGGET_IN_A_BISCUIT, HIDDEN_SETTINGS));
     public static final Item REVENGE_MC = register("hidden.revenge_mc", new mdpDisc(7, mdpSoundEvents.REVENGE_MC, HIDDEN_SETTINGS));
     public static final Item SUPERNATURAL_MOBS = register("hidden.supernatural_mobs", new mdpDisc(7, mdpSoundEvents.SUPERNATURAL_MOBS, HIDDEN_SETTINGS));
     public static final Item TAKE_BACK_THE_NIGHT = register("hidden.take_back_the_night", new mdpDisc(7, mdpSoundEvents.TAKE_BACK_THE_NIGHT, HIDDEN_SETTINGS));
+
+    //Requests
+    public static final Item AMERICAN_RIVER = register("requests.american_river", new mdpDisc(8, mdpSoundEvents.AMERICAN_RIVER, REQUESTS_SETTINGS));
+    public static final Item BIG_TIME_RUSH = register("requests.big_time_rush", new mdpDisc(8, mdpSoundEvents.BIG_TIME_RUSH, REQUESTS_SETTINGS));
+    public static final Item FLY_ME_TO_THE_MOON = register("requests.fly_me_to_the_moon", new mdpDisc(8, mdpSoundEvents.FLY_ME_TO_THE_MOON, REQUESTS_SETTINGS));
+    public static final Item GODZILLA = register("requests.godzilla", new mdpDisc(8, mdpSoundEvents.GODZILLA, REQUESTS_SETTINGS));
+    public static final Item HELL_2_DA_NAW = register("requests.hell_2_da_naw", new mdpDisc(8, mdpSoundEvents.HELL_2_DA_NAW, REQUESTS_SETTINGS));
+    public static final Item HOEDOWN = register("requests.hoedown", new mdpDisc(8, mdpSoundEvents.HOEDOWN, REQUESTS_SETTINGS));
+    public static final Item MOLCHAT_DOMA = register("requests.molchat_doma", new mdpDisc(8, mdpSoundEvents.MOLCHAT_DOMA, REQUESTS_SETTINGS));
+    public static final Item STAND_BY_ME = register("requests.stand_by_me", new mdpDisc(8, mdpSoundEvents.STAND_BY_ME, REQUESTS_SETTINGS));
+    public static final Item THY_MISSION = register("requests.thy_mission", new mdpDisc(8, mdpSoundEvents.THY_MISSION, REQUESTS_SETTINGS));
+    public static final Item YOUNG_WILD_FREE = register("requests.young_wild_free", new mdpDisc(8, mdpSoundEvents.YOUNG_WILD_FREE, REQUESTS_SETTINGS));
 
     public static Item register(String name, Item item){
         return Registry.register(Registry.ITEM, new Identifier("mdp", name), item);

@@ -270,10 +270,48 @@
   "item.mdp.tiktok.woah.desc": "KRYPTO9095 - Woah §4E",
   "item.mdp.tiktok.you.desc": "Petit Biscuit - You",
 
+  "item.mdp.hidden.dont_mine_at_night": "Music Disc §7[Secret]",
+  "item.mdp.hidden.fallen_kingdom": "Music Disc §7[Secret]",
+  "item.mdp.hidden.mr_sandman": "Music Disc §7[Secret]",
+  "item.mdp.hidden.mumbo_jumbo": "Music Disc §7[Secret]",
   "item.mdp.hidden.never_gonna_give_you_up": "Music Disc §7[Secret]",
+  "item.mdp.hidden.nugget_in_a_biscuit": "Music Disc §7[Secret]",
+  "item.mdp.hidden.revenge_mc": "Music Disc §7[Secret]",
+  "item.mdp.hidden.supernatural_mobs": "Music Disc §7[Secret]",
+  "item.mdp.hidden.take_back_the_night": "Music Disc §7[Secret]",
 
+  "item.mdp.hidden.dont_mine_at_night.desc": "Don't Mine At Night!",
+  "item.mdp.hidden.fallen_kingdom.desc": "Fallen Kingdom",
+  "item.mdp.hidden.mr_sandman.desc": "Mr. Sandman",
+  "item.mdp.hidden.mumbo_jumbo.desc": "§cMumbo Jumbo!",
   "item.mdp.hidden.never_gonna_give_you_up.desc": "§kNever Gonna Give You Up",
+  "item.mdp.hidden.nugget_in_a_biscuit.desc": "Nugget In a Biscuit",
+  "item.mdp.hidden.revenge_mc.desc": "Revenge",
+  "item.mdp.hidden.supernatural_mobs.desc": "Supernatural Mobs",
+  "item.mdp.hidden.take_back_the_night.desc": "Take Back The Night",
+  
+  
+  "itemGroup.mdp.requests": "§8Requested §rMusic Discs",
 
+  "item.mdp.requests.american_river": "Music Disc §8[Requests]",
+  "item.mdp.requests.big_time_rush": "Music Disc §8[Requests]",
+  "item.mdp.requests.fly_me_to_the_moon": "Music Disc §8[Requests]",
+  "item.mdp.requests.godzilla": "Music Disc §8[Requests]",
+  "item.mdp.requests.hell_2_da_naw": "Music Disc §8[Requests]",
+  "item.mdp.requests.hoedown": "Music Disc §8[Requests]",
+  "item.mdp.requests.molchat_doma": "Music Disc §8[Requests]",
+  "item.mdp.requests.stand_by_me": "Music Disc §8[Requests]",
+  "item.mdp.requests.thy_mission": "Music Disc §8[Requests]",
+  "item.mdp.requests.young_wild_free": "Music Disc §8[Requests]",
 
-  "itemGroup.mdp.requests": "§8Requested §rMusic Discs"
+  "item.mdp.requests.american_river.desc": "American River (Crow)",
+  "item.mdp.requests.big_time_rush.desc": "Big Time Rush Theme (Crow)",
+  "item.mdp.requests.fly_me_to_the_moon.desc": "Fly Me To The Moon (Jake)",
+  "item.mdp.requests.godzilla.desc": "Godzilla (Jake)",
+  "item.mdp.requests.hell_2_da_naw.desc": "Hell 2 Da Naw (Jake)",
+  "item.mdp.requests.hoedown.desc": "Hoedown (Jake)",
+  "item.mdp.requests.molchat_doma.desc": "Molchat Doma (Crow)",
+  "item.mdp.requests.stand_by_me.desc": "Stand By Me (Jake)",
+  "item.mdp.requests.thy_mission.desc": "Thy Mission (Crow)",
+  "item.mdp.requests.young_wild_free.desc": "Young WIld Free (Jake)"
 }
