@@ -1,6 +1,6 @@
 [![Discord Banner 2](https://discordapp.com/api/guilds/733950434892447797/widget.png?style=banner2)](https://discord.gg/Fe4NGNQ)
 
-[![](http://cf.way2muchnoise.eu/versions/jei_latest.svg)](https://www.curseforge.com/minecraft/mc-mods/extradiscs)
+[![](http://cf.way2muchnoise.eu/versions/jei_latest.svg)](https://www.curseforge.com/minecraft/mc-mods/musicdiscsplus)
 # MusicDiscsPlus
 
  [MusicDiscsPlus](https://www.curseforge.com/minecraft/mc-mods/musicdiscsplus) is a **Fabric** mod that adds 144+ music discs into Minecraft! All discs drop from a skeleton killing a creeper. The Discs are much like normal music discs and can be heard for about 75 blocks from the jukebox source.
